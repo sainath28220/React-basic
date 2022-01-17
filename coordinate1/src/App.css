@@ -1,0 +1,15 @@
+.Body1{
+  border: 1px solid black;
+  width: 70%;
+  margin-left: 15%;
+}
+
+.accordion-item,.accordion-title{
+  border:1px solid black;
+  background: lightblue;
+}
+
+.same1{
+  display: inline-block;
+}
+
